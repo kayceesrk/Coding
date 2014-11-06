@@ -2,4 +2,5 @@
 * [Spoj](http://www.spoj.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [TopCoder](http://www.topcoder.com/)
-* [Kowshik's Repo](https://github.com/kowshik/big-o)
+* [Kowshik Big-O Repo](https://github.com/kowshik/big-o)
+* [Books](https://www.dropbox.com/sh/wt1vbkukqofkkze/AABjtxDf5VEAK6Ys54xbCPv-a?dl=0)
