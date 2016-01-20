@@ -1,4 +1,4 @@
 Coding
 ======
 
-Coding puzzles, Interview prep
+Coding puzzles
